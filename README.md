@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
 
+<h3><p> This is where Youll find the Solar System Model made using unity Engine, its still an rough design patch as I am still Learning Unity!</p></h3>
+<br><h3><b>Thanks for staying here and reading this all!</b></h3> 
 <!--
 **Ojas190/Ojas190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
